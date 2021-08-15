@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0">
+    <testcase classname="Sign in testcases" name="SignIn Testcase04" time="0">
+        <system-out><![CDATA[Given Open browser Navigate to "http://www.automationpractice.com"..........skipped
+When Click on the SignIn link...............................................skipped
+When user login in to application with username santosh@test.com and password 123456.skipped
+Then Veirfy MyAccount Page displayed or not.................................skipped
+When Click on Signout.......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Sign in testcases" name="SignIn Testcase04 2" time="0">
+        <system-out><![CDATA[Given Open browser Navigate to "http://www.automationpractice.com"..........skipped
+When Click on the SignIn link...............................................skipped
+When user login in to application with username digitalcutlet@test.com and password 123456.skipped
+Then Veirfy MyAccount Page displayed or not.................................skipped
+When Click on Signout.......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Sign in testcases" name="SignIn Testcase04 3" time="0">
+        <system-out><![CDATA[Given Open browser Navigate to "http://www.automationpractice.com"..........skipped
+When Click on the SignIn link...............................................skipped
+When user login in to application with username teja@test.com and password 123456.skipped
+Then Veirfy MyAccount Page displayed or not.................................skipped
+When Click on Signout.......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Sign in testcases" name="SignIn Testcase04 4" time="0">
+        <system-out><![CDATA[Given Open browser Navigate to "http://www.automationpractice.com"..........skipped
+When Click on the SignIn link...............................................skipped
+When user login in to application with username archana.s56@gmail.com and password 123456.skipped
+Then Veirfy MyAccount Page displayed or not.................................skipped
+When Click on Signout.......................................................skipped
+]]></system-out>
+    </testcase>
+</testsuite>

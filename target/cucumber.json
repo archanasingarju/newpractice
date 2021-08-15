@@ -1,0 +1,358 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#using scenario outlie"
+      }
+    ],
+    "line": 2,
+    "elements": [
+      {
+        "line": 12,
+        "name": "SignIn Testcase04",
+        "description": "",
+        "id": "sign-in-testcases;signin-testcase04;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Open browser Navigate to \"http://www.automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.automationpractice.com",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinations.open_browser_navigate_to_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Click on the SignIn link",
+            "match": {
+              "location": "StepDefinations.click_on_the_signin_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user login in to application with username santosh@test.com and password 123456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "santosh@test.com",
+                  "offset": 43
+                },
+                {
+                  "val": "123456",
+                  "offset": 73
+                }
+              ],
+              "location": "StepDefinations.user_login_in_to_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Veirfy MyAccount Page displayed or not",
+            "match": {
+              "location": "StepDefinations.veirfy_myaccount_page_displayed_or_not()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Click on Signout",
+            "match": {
+              "location": "StepDefinations.click_on_signout()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "SignIn Testcase04",
+        "description": "",
+        "id": "sign-in-testcases;signin-testcase04;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Open browser Navigate to \"http://www.automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.automationpractice.com",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinations.open_browser_navigate_to_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Click on the SignIn link",
+            "match": {
+              "location": "StepDefinations.click_on_the_signin_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user login in to application with username digitalcutlet@test.com and password 123456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "digitalcutlet@test.com",
+                  "offset": 43
+                },
+                {
+                  "val": "123456",
+                  "offset": 79
+                }
+              ],
+              "location": "StepDefinations.user_login_in_to_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Veirfy MyAccount Page displayed or not",
+            "match": {
+              "location": "StepDefinations.veirfy_myaccount_page_displayed_or_not()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Click on Signout",
+            "match": {
+              "location": "StepDefinations.click_on_signout()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "SignIn Testcase04",
+        "description": "",
+        "id": "sign-in-testcases;signin-testcase04;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Open browser Navigate to \"http://www.automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.automationpractice.com",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinations.open_browser_navigate_to_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Click on the SignIn link",
+            "match": {
+              "location": "StepDefinations.click_on_the_signin_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user login in to application with username teja@test.com and password 123456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "teja@test.com",
+                  "offset": 43
+                },
+                {
+                  "val": "123456",
+                  "offset": 70
+                }
+              ],
+              "location": "StepDefinations.user_login_in_to_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Veirfy MyAccount Page displayed or not",
+            "match": {
+              "location": "StepDefinations.veirfy_myaccount_page_displayed_or_not()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Click on Signout",
+            "match": {
+              "location": "StepDefinations.click_on_signout()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 15,
+        "name": "SignIn Testcase04",
+        "description": "",
+        "id": "sign-in-testcases;signin-testcase04;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Open browser Navigate to \"http://www.automationpractice.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.automationpractice.com",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinations.open_browser_navigate_to_something(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Click on the SignIn link",
+            "match": {
+              "location": "StepDefinations.click_on_the_signin_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user login in to application with username archana.s56@gmail.com and password 123456",
+            "match": {
+              "arguments": [
+                {
+                  "val": "archana.s56@gmail.com",
+                  "offset": 43
+                },
+                {
+                  "val": "123456",
+                  "offset": 78
+                }
+              ],
+              "location": "StepDefinations.user_login_in_to_application_with_username_and_password(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "Veirfy MyAccount Page displayed or not",
+            "match": {
+              "location": "StepDefinations.veirfy_myaccount_page_displayed_or_not()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 9,
+            "name": "Click on Signout",
+            "match": {
+              "location": "StepDefinations.click_on_signout()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Sign in testcases",
+    "description": "",
+    "id": "sign-in-testcases",
+    "keyword": "Feature",
+    "uri": "src/test/java/features/SingnOutlie.feature"
+  }
+]
